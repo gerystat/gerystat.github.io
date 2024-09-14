@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gerystat.github.io/sitemap.html.gz
+Sitemap: https://gerystat.github.io/app/sitemap.html.gz
+Sitemap: https://gerystat.github.io/assets/sitemap.html.gz
+Sitemap: https://gerystat.github.io/css/sitemap.html.gz
+Sitemap: https://gerystat.github.io/includes/sitemap.html.gz
+Sitemap: https://gerystat.github.io/item/sitemap.html.gz
+Sitemap: https://gerystat.github.io/src/sitemap.html.gz
